@@ -1,0 +1,39 @@
+<div class="w3l-visitors-agile" >
+		<div class="container">
+			<div class="w3layouts_head">
+				<h3 class="tittle">Arcobaleno</h3>
+					<div class="border"></div>
+				</div>
+			</div>
+		<div class="w3layouts_work_grids">
+			<section class="slider">
+				<div class="flexslider">
+					<ul class="slides">
+                       {% for item in site.data.visitors.class1 %}
+						<li>
+					
+							<div class="w3layouts_work_grid_left">
+								<img src="{{ item.image_path }}" alt=" " class="img-responsive" />
+								{% for entry in item.subfolderitems %}
+								    <div class="w3layouts_work_grid_left_pos">
+									   <img src="{{ entry.image_path }}" alt=" " class="img-responsive" />
+								    </div>
+                                {% endfor %}
+							</div>
+							
+							<div class="w3layouts_work_grid_right">
+								<h4>
+								{{ item.titulo }}
+								</h4>
+								<p>{{ item.description  }}</p>
+								<h5>{{ item.title  }}</h5>
+								<p>{{ item.subtitle  }}</p>
+							</div>
+							<div class="clearfix"> </div>
+						</li>
+                      {% endfor %}
+					</ul>
+				</div>
+			</section>
+		</div>	
+</div>

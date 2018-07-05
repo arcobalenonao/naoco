@@ -1,0 +1,38 @@
+servicios-a:
+ - glyphicon: glyphicon glyphicon-cog
+   h4: arcobaleno
+   p: arcobaleno, arcobaleno, arcobaleno, arcobalenoarcobaleno, arcobaleno.
+
+ - glyphicon: glyphicon glyphicon-heart
+   h4: arcobaleno
+   p: arcobaleno, arcobaleno, arcobaleno, arcobalenoarcobaleno, arcobaleno.
+   
+ - glyphicon: glyphicon glyphicon-time
+   h4: arcobaleno
+   p: arcobaleno, arcobaleno, arcobaleno, arcobalenoarcobaleno, arcobaleno.
+ 
+ - glyphicon: glyphicon glyphicon-pencil
+   h4: arcobaleno
+   p: arcobaleno, arcobaleno, arcobaleno, arcobalenoarcobaleno, arcobaleno.
+     
+      
+servicios-b:
+  - glyphicon: glyphicon glyphicon-pencil
+    h4: arcobaleno
+    p: arcobaleno, arcobaleno, arcobaleno, arcobalenoarcobaleno, arcobaleno.
+   
+  
+  - glyphicon: glyphicon glyphicon-user
+    h4: arcobaleno
+    p: arcobaleno, arcobaleno, arcobaleno, arcobalenoarcobaleno, arcobaleno.
+   
+
+  - glyphicon: glyphicon glyphicon-headphones
+    h4: arcobaleno
+    p: arcobaleno, arcobaleno, arcobaleno, arcobalenoarcobaleno, arcobaleno.
+   
+  - glyphicon: glyphicon glyphicon-bell
+    h4: arcobaleno
+    p: arcobaleno, arcobaleno, arcobaleno, arcobalenoarcobaleno, arcobaleno.
+     
+ 

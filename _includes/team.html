@@ -1,0 +1,30 @@
+	<!-- team -->
+<div class="team">
+		<div class="container">
+				<div class="w3layouts_head">
+					<h3 class="tittle">Equipo</h3>
+					<div class="border"></div>
+				</div>
+           <div class="agile_team_grids">
+                {% for pr2 in site.data.equipo.equipos %}
+				<div class="col-md-3 agile_team_grid">
+					<div class="view w3-agile-view">
+						<img src="{{ pr2.image_path }}" alt=" " class="img-responsive" />
+						<div class="w3lmask">
+							<h5>{{ pr2.titulo }}</h5>
+							<p>{{ pr2.description }}</p>
+							<ul class="social-icons3">
+								<li><a href="#" class="fa fa-facebook icon-border facebook"> </a></li>
+								<li><a href="#" class="fa fa-twitter icon-border twitter"> </a></li>
+								<li><a href="#" class="fa fa-google-plus icon-border googleplus"> </a></li> 
+							</ul>
+						</div>
+					</div>
+				</div>
+                 {% endfor %}
+				<div class="clearfix"> </div>
+			</div>
+
+		</div>
+</div>
+	<!-- //team -->

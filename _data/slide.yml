@@ -1,0 +1,21 @@
+arriba:
+ - class: w3layouts-banner-top
+   h4: Inspiration 
+   h3: Innovation and Discovery.
+   p:  Welcome to our Education
+  
+ - class: w3layouts-banner-top
+   class1: w3layouts-banner-top1
+   h4: IMPROVE
+   h3: YOUR PRACTICAL LANGUAGE SKILLS
+   p:  Welcome to our Education
+  
+
+ - class: w3layouts-banner-top
+   class1: w3layouts-banner-top2
+   h4: Helping
+   h3: each of our students fulfill the potential
+   p:  Welcome to our Education
+  
+
+

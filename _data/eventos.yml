@@ -1,0 +1,30 @@
+class1:
+  - class: news-info
+    subfolderitems:
+      - date: 10
+        span: junio
+        titulo: titulo1
+        description: Poner parrafo2Poner parrafo2PonerPoner parrafo2parrafo2
+
+      - date: 12
+        span: junio
+        titulo: titulo
+        description:  Poner parrafoPoner parrafo2Poner parrafo2Poner 
+                      Poner parrafo2parrafo2Poner parrafo2Poner parrafo2PonerPoner parrafo2parrafo2
+        
+    
+  - class: news-info news-agileinfo2
+    subfolderitems:
+      - date: 17
+        span: junio
+        titulo: titulo1
+        description: Poner parrafo2Poner parrafo2PonerPoner parrafo2parrafo2
+
+      - date: 19
+        span: junio
+        titulo: titulo
+        description: Poner parrafo2Poner parrafo2PonerPoner parrafo2parrafo2
+            
+
+
+

@@ -1,0 +1,36 @@
+ga:
+ - image_path: images/g1.jpg
+   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.
+   parrafo: arcobaleno, arcobaleno, arcobaleno, arcobalenoarcobaleno, arcobaleno.
+
+ - image_path: images/g2.jpg
+   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.
+   parrafo: arcobaleno, arcobaleno, arcobaleno, arcobalenoarcobaleno, arcobaleno.
+
+ - image_path: images/g3.jpg
+   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.
+   parrafo: arcobaleno, arcobaleno, arcobaleno, arcobalenoarcobaleno, arcobaleno.
+
+ - image_path: images/g4.jpg
+   description: arcobaleno
+   parrafo: arcobaleno, arcobaleno, arcobaleno, arcobalenoarcobaleno, arcobaleno.  
+ 
+ - image_path: images/g5.jpg
+   description: arcobaleno
+   parrafo: arcobaleno, arcobaleno, arcobaleno, arcobalenoarcobaleno, arcobaleno.
+
+ - image_path: images/g6.jpg
+   description: arcobaleno
+   parrafo: arcobaleno, arcobaleno, arcobaleno, arcobalenoarcobaleno, arcobaleno.
+
+ - image_path: images/g7.jpg
+   description: arcobalen
+   parrafo: arcobaleno, arcobaleno, arcobaleno, arcobalenoarcobaleno, arcobaleno.
+
+ - image_path: images/g8.jpg
+   description: arcobaleno
+   parrafo: arcobaleno, arcobaleno, arcobaleno, arcobalenoarcobaleno, arcobaleno.
+
+ - image_path: images/g9.jpg
+   description: arcobaleno
+   parrafo: arcobaleno, arcobaleno, arcobaleno, arcobalenoarcobaleno, arcobaleno. 

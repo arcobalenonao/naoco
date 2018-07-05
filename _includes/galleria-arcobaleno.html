@@ -1,0 +1,27 @@
+<!-- galleria Arcobaleno -->
+<div class="gallery">
+		<div class="container">
+			<div class="w3layouts_head">
+				<h3 class="tittle">Gallery</h3>
+					<div class="border"></div>
+			</div>
+			<div class="gallery-grids">
+				{% for ga in site.data.galleria.ga %}
+					<div class="col-md-4 gallery-grid">
+						<div class="grid">
+							<figure class="effect-apollo">
+								<a class="example-image-link" href="{{ ga.image_path }}" data-lightbox="example-set" data-title="{{ ga.description }}">
+									<img src="{{ ga.image_path }}" alt="" />
+									<figcaption>
+										<p>{{ ga.parrafo }}</p>
+									</figcaption>	
+								</a>
+							</figure>
+						</div>
+					</div>
+		        {% endfor %}
+					<div class="clearfix"> </div>
+					<script src="js/lightbox-plus-jquery.min.js"> </script>
+			</div>
+		</div>
+</div>

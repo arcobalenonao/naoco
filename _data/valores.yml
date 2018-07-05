@@ -1,0 +1,14 @@
+valor:
+ - titulo: titulo1
+   description: arcobaleno, arcobaleno, arcobaleno, arcobalenoarcobaleno, arcobaleno.
+   icono: fa fa-user
+
+ - titulo: titulo2
+   description: arcobaleno1
+   icono: fa fa-cogs
+
+ - titulo: titulo3
+   description: arcobaleno3
+   icono: fa fa-thumbs-o-up
+
+ 

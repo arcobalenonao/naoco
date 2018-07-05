@@ -1,0 +1,16 @@
+equipos:
+ - image_path: images/teamb1.jpg
+   titulo: arcobaleno1
+   description: arcobaleno, arcobaleno, arcobaleno, arcobalenoarcobaleno, arcobaleno.
+
+ - image_path: images/teamb2.jpg
+   titulo: arcobalenor
+   description: arcobaleno, arcobaleno, arcobaleno, arcobalenoarcobaleno, arcobaleno.
+   
+ - image_path: images/teamb3.jpg
+   titulo: arcobalenot
+   description: arcobaleno, arcobaleno, arcobaleno, arcobalenoarcobaleno, arcobaleno.
+
+ - image_path: images/teamb4.jpg
+   titulo: arcobalenok
+   description: arcobaleno, arcobaleno, arcobaleno, arcobalenoarcobaleno, arcobaleno.
