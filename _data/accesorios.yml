@@ -1,0 +1,85 @@
+accesorios-arcobaleno:
+  - ul: 
+    subfolderitems:
+      - url: #
+        image_path: images/eva-piraci.png
+        titulo: Boots
+        alt:
+
+      - url: #
+        image_path: images/eva-piraci.png
+        titulo: Boots1
+        alt:
+
+      - url: #
+        image_path: images/eva-piraci.png
+        titulo: Boots2
+        alt:
+
+      - url: #
+        image_path: images/eva-piraci.png
+        titulo: Boots3
+        alt:
+
+      
+  - ul: 
+    subfolderitems:
+      - url: #
+        image_path: images/eva-piraci.png
+        titulo: Boots4
+        alt:
+
+      - url: #
+        image_path: images/eva-piraci.png
+        titulo: Boots5
+        alt:
+
+      - url: #
+        image_path: images/eva-piraci.png
+        titulo: Boots6
+        alt:
+
+      - url: #
+        image_path: images/eva-piraci.png
+        titulo: Boots7
+        alt:
+  - ul: 
+    subfolderitems:
+      - url: #
+        image_path: images/eva-piraci.png
+        titulo: Boots7
+        alt:
+
+      - url: #
+        image_path: images/eva-piraci.png
+        titulo: Boots7
+        alt:
+
+      - url: #
+        image_path: images/eva-piraci.png
+        titulo: Boots7
+        alt:
+
+      - url: #
+        image_path: images/eva-piraci.png
+        titulo: Boots7
+        alt:
+  - ul: 
+    subfolderitems:
+      - url: #
+        image_path: images/eva-piraci.png
+        titulo: Boots7
+        alt:
+
+      - url: #
+        image_path: images/eva-piraci.png
+        titulo: Boots7
+        alt:
+
+      - url: #
+        image_path: images/eva-piraci.png
+        titulo: Boots7
+        alt:
+      
+
+

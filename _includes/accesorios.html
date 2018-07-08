@@ -1,0 +1,31 @@
+
+    <div class="w3layouts_head">
+      <h3 class="tittle"> Categoria De Accesorios</h3>
+        <div class="border"></div>
+    </div>
+     <div id="mi-slider" class="mi-slider">
+   {% for item in site.data.accesorios.accesorios-arcobaleno %}
+	<ul>
+     {% for entry in item.subfolderitems %}
+	  <li>
+	  	 <a href="{{ entry.url }}">
+	  	 	 <img src="{{ entry.image_path }}" alt="{{ entry.url }}">
+	  	 	 <h4>{{ entry.titulo }}</h4>
+	  	 </a>
+	  </li>
+     {% endfor %}
+	</ul>
+   {% endfor %}
+					
+	<nav>
+	    <a href="#">Cuerdas</a>
+		<a href="#">Pez</a>
+		<a href="#">Hombrera</a>
+		<a href="#">Microafinador</a>
+		
+	</nav>
+</div> 
+      
+        
+  
+

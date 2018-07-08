@@ -1,0 +1,40 @@
+<link href="css/base.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/pater.css" rel="stylesheet" type="text/css" media="all" />
+<div class="w3layouts_head">
+      <h3 class="tittle"> Violin</h3>
+        <div class="border"></div>
+</div>
+ <main>
+	 <svg class="hidden">
+         {% for item in site.data.venta.svg %}
+			<symbol id="{{ item.icon-id }}" viewBox="{{ item.viewBox }}">
+				<title>{{ item.title }}</title>
+                <path d="{{ item.paste }}"/>
+			</symbol>
+		  {% endfor %}
+	   <button class="dummy-menu">
+		<svg class="icon icon--menu">
+			<use xlink:href="#icon-menu"></use>
+		</svg>
+	   </button>
+ <div class="content">
+   <div class="grid">
+    {% for item in site.data.venta.ventas-violin %}
+	  <div class="{{ item.class }}">
+         {% for entry in item.subfolderitems %}
+		 <div class="product">
+			 <div class="product__bg"></div>
+				 <img class="product__img" src="{{ entry.image_path }}" alt="img 01"/>
+					<h2 class="product__title">{{ entry.product__title }}</h2>
+					<h3 class="product__subtitle">{{ entry.product__subtitle }}</h3>
+					<p class="product__description">{{ entry.description }}</p>
+					<div class="product__price">{{ entry.precio}}</div>
+		 </div>
+          {% endfor %}
+	  </div>
+     {% endfor %}
+	</div>
+ </div>
+ </main>
+ {% include animejs.html %}
+
