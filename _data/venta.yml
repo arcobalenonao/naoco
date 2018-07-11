@@ -2,7 +2,7 @@ ventas-violin:
   - class: grid__item
     subfolderitems:
       - image_path: images/strobel-violin.png
-        product__title: Strobel1
+        product__title: Strobel
         product__subtitle: ML80
         description: 'tamaño 4/4, año 2009'
         precio: 120Bs
