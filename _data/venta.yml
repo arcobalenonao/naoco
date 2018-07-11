@@ -1,11 +1,11 @@
 ventas-violin:
   - class: grid__item
     subfolderitems:
-      - image_path: images/strobel-violin.png
+      - image_path: /images/francia.png
         product__title: Strobel
         product__subtitle: ML80
         description: 'tamaño 4/4, año 2009 el violin para adultos'
-        precio: 120Bs
+        precio: 180Bs
   - class: grid__item
     subfolderitems:
       - image_path: images/francia.png
