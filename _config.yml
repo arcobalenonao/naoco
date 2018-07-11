@@ -2,3 +2,11 @@ email: your-email@example.com
 baseurl: "naoco" # the subpath of your site, e.g. /blog
 url: "" 
 baseurl: /naoco
+
+plugins:
+  - jekyll-maps
+
+
+maps:
+  google:
+    api_key: <AIzaSyDUZl_g-CydB7I7ULFb_ruadWfKbHm1J4g&signed_in>

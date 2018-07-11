@@ -445,7 +445,7 @@ li.menu__item:nth-child(6) {
     line-height: 1.8em;
     letter-spacing: 11px;
     margin: 1em auto;
-    font-weight: 300;
+    font-weight: 600;
     text-transform: uppercase;
 }
 .agileits_w3layouts_more{
@@ -476,7 +476,7 @@ li.menu__item:nth-child(6) {
 /*-- //banner-text --*/
 /*-- banner-top --*/
 .w3layouts-banner-top{
-    background: url(../images/2.png) no-repeat 0px 0px;
+    background: url(../images/violin.jpg) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -484,7 +484,7 @@ li.menu__item:nth-child(6) {
 	-moz-background-size: cover;
 }
 .w3layouts-banner-top1{
-	background: url(../images/1.png) no-repeat 0px 0px;
+	background: url(../images/2.png) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -1529,10 +1529,10 @@ figure.effect-apollo:hover p {
     font-weight: 600;
     text-transform: uppercase;
 }
-.map iframe {
+.map {
 	width: 100%;
 	height: 340px;
-    border: none;
+    border-color:#30befc;
 }
 .address-grids {
 	padding: 0;
@@ -3817,7 +3817,7 @@ h3.tittle, h2.tittle {
 .map {
     margin-top: 0em;
 }
-.map iframe {
+.map  {
     height: 210px;
 }
 .contact-infom {
@@ -4484,10 +4484,13 @@ button::-moz-focus-inner {
 .mi-slider nav a {
     display: inline-block;
     text-transform: uppercase;
-    letter-spacing: 5px;
-    padding: 40px 30px 30px 34px;
+    letter-spacing: 1px;
+    /*--
+  padding original: 40px 30px 30px 34px;
+--*/
+    padding: 30px 15px 20px 34px;
     position: relative;
-    color: #888;
+    color: #31b144;
     outline: none;
     -webkit-transition: color 0.2s linear;
     transition: color 0.2s linear;
@@ -4495,7 +4498,7 @@ button::-moz-focus-inner {
 
 .mi-slider nav a:hover,
 .mi-slider nav a.mi-selected {
-    color: #000;
+    color: #5ac3ef;
 }
 
 .mi-slider nav a.mi-selected:after,

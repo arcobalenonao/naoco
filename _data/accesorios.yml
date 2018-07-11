@@ -7,17 +7,17 @@ accesorios-arcobaleno:
         alt:
 
       - url: #
-        image_path: images/eva-piraci.png
+        image_path: images/infeld-rojo.png
         titulo: Boots1
         alt:
 
       - url: #
-        image_path: images/eva-piraci.png
+        image_path: images/vision-solo-vit02.png
         titulo: Boots2
         alt:
 
       - url: #
-        image_path: images/eva-piraci.png
+        image_path: images/dominant.png
         titulo: Boots3
         alt:
 
@@ -25,61 +25,69 @@ accesorios-arcobaleno:
   - ul: 
     subfolderitems:
       - url: #
-        image_path: images/eva-piraci.png
+        image_path: images/pez1.jpg
         titulo: Boots4
         alt:
 
       - url: #
-        image_path: images/eva-piraci.png
+        image_path: images/pez2.jpg
         titulo: Boots5
         alt:
-
-      - url: #
-        image_path: images/eva-piraci.png
-        titulo: Boots6
-        alt:
-
-      - url: #
-        image_path: images/eva-piraci.png
-        titulo: Boots7
-        alt:
   - ul: 
     subfolderitems:
       - url: #
-        image_path: images/eva-piraci.png
+        image_path: images/ar.png
         titulo: Boots7
         alt:
 
       - url: #
-        image_path: images/eva-piraci.png
+        image_path: images/ar1.png
         titulo: Boots7
         alt:
 
       - url: #
-        image_path: images/eva-piraci.png
+        image_path: images/ar2.png
         titulo: Boots7
         alt:
 
-      - url: #
-        image_path: images/eva-piraci.png
-        titulo: Boots7
-        alt:
+      
   - ul: 
     subfolderitems:
       - url: #
-        image_path: images/eva-piraci.png
+        image_path: images/ma1.png
         titulo: Boots7
         alt:
 
       - url: #
-        image_path: images/eva-piraci.png
+        image_path: images/ma2.png
+        titulo: Boots7
+        alt:
+
+  
+  - ul: 
+    subfolderitems:
+      - url: #
+        image_path: images/ma1.png
         titulo: Boots7
         alt:
 
       - url: #
-        image_path: images/eva-piraci.png
+        image_path: images/ma2.png
+        titulo: Boots7
+        alt:    
+      
+
+  - ul: 
+    subfolderitems:
+      - url: #
+        image_path: images/ma1.png
         titulo: Boots7
         alt:
+
+      - url: #
+        image_path: images/ma2.png
+        titulo: Boots7
+        alt:    
       
 
 
