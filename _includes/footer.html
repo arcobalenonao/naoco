@@ -32,33 +32,31 @@
 		<div class="container">
          <div class="footer-info-agile">
 				<div class="col-md-2 footer-info-grid links">
-					<h4>Quick links</h4>
+					<h4>Links</h4>
 					<ul>
-						       <li><a href="index.html">Inicio</a></li> 
-								<li><a href="about.html">Nosotros</a></li> 
-								<li><a href="icons.html">Icons</a></li> 
-								<li><a href="gallery.html">Gallery</a></li> 
-								<li><a href="contact.html">Contact</a></li> 
+                            {% for pr2 in site.data.pie-de-pagina-arcobaleno.links %}
+						       <li>
+						       	<a href="{{ pr2.url}}">{{ pr2.nombre-link }} </a>
+						       </li> 
+						 	{% endfor %}	
 					</ul>
 				</div>
 				<div class="col-md-3 footer-info-grid address">
-					<h4>Address</h4>
+					<h4>Direciones</h4>
 					<address>
 						<ul>
-							<li>Mexico United States 3000</li>
-							<li>40019 Honey Street</li>
-							<li>BO,Mexico</li>
-							<li>Telephone : +1 (734) 123-4567</li>
-							<li>Email : <a class="mail" href="mailto:mail@example.com">info(at)example.com</a></li>
+                            {% for direccion in site.data.pie-de-pagina-arcobaleno.direcciones %}
+							<li> {{ direccion.direcion}}</li>
+							{% endfor %}
+							<li>Email : <a class="mail" href="mailto:mail@example.com">arcobaleno.cbba@gmail.com</a></li>
 						</ul>
 					</address>
 				</div>
-				<div class="col-md-3 footer-grid">
-				   <div
-        class="fb-customerchat"
-        page_id="1778896829087917"
-        ref="">
-      </div>
+				 <div class="col-md-3 footer-grid">
+				    <div
+                        class="fb-customerchat"
+                        page_id="1778896829087917"ref="">
+                    </div>
 				</div>
 				<div class="col-md-4 footer-info-grid">
 				<div class="connect-social">
@@ -84,16 +82,16 @@
 			</div>
 
 			<div class="connect-agileits newsletter">
-				<h4>Newsletter</h4>
-					<p>Subscribe to our newsletter and we will inform you about newest projects and promotions.
+				<h4>Suscribete</h4>
+					<p>Al suscribirte te haremos llegar eventos y mas 
 					</p>
 					<form action="#" method="post" class="newsletter">
-						<input class="email" type="email" placeholder="Your email address..." required="">
-						<input type="submit" class="submit" value="Subscribe">
+						<input class="email" type="email" placeholder="Tu email..." required="">
+						<input type="submit" class="submit" value="Suscribete">
 					</form>
 			</div>
 	   </div>
      </div>
 	<div class="copy">
-		<p>© 2018 Arcobaleno Naoco . All Rights Reserved | Diseñado <a href="http://w3layouts.com/"></a> </p>
+		<p>© 2018 Arcobaleno Naoco . Derechos Reservados | Diseñado <a href="http://w3layouts.com/"></a> </p>
 	</div>
