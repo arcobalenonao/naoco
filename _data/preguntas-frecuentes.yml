@@ -1,0 +1,99 @@
+preguntas:
+  - class: 
+    subfolderitems:
+      - classid: headingOne
+        referencia: "#collapseOne"
+        numero_pregunta: 1
+        pregunta: ¿Que es Arcobaleno?
+      
+      - ref: collapseOne
+        classid1: headingOne
+        parrafo: Arcobaleno está creado para la enseñanza musical desde edad maternal hasta adultos.
+                            La música es bien recibida por todos los habitantes del planeta.
+
+
+  - class: 
+    subfolderitems:
+      - classid: headingTwo
+        referencia: "#collapseTwo"
+        numero_pregunta: 2
+        pregunta:  ¿Que enseña en Arcobaleno?
+      
+      - ref: collapseTwo
+        classid1: headingTwo
+        parrafo: Enseña a tocar el violín también rítmica a los niños de edad maternal y preescolar.  
+
+  - class: 
+    subfolderitems:
+      - classid: headingThree
+        referencia: "#collapseThree"
+        numero_pregunta: 3
+        pregunta:  ¿Que es rítmica?
+      
+      - ref: collapseThree
+        classid1: headingThree
+        parrafo: Es el punto de inicio de la educación musical del niño, fomentando una sensación de ritmo y sensibilidad.dice que la rítmica comienza con los bebes desde el vientre de la madre (latidos, respiración…) y sigue una evolución rítmica del niños.
+
+
+  - class: 
+    subfolderitems:
+      - classid: headingfour
+        referencia: "#collapsefour"
+        numero_pregunta: 4
+        pregunta:  ¿Que es rítmica de Arcobaleno?
+      
+      - ref: collapsefour
+        classid1: headingfour
+        parrafo: Nosotros pensamos “todo los niños tiene capacidad”. 
+                 Pero, dependen de su ambiente y su manera de aprender son muy importantes. Para crear confianza en ellos mismos.
+                 Por eso nosotros los adultos tenemos que preparar un ambiente para los niños para que puedan desarrollar plena y correctamente. Si creas un ambiente divertido los niños tienen mayor motivación y pueden hacer por su propia voluntad. Y desarrollamos su sensibilidad, si tienes sensibilidad puedes transmitir felicidad a otras personas.
+                 Por que no vivimos solos.
+                 Y sientes que a tu alrededor tienen felicidad podemos vivir bien y mejor.
+                 Entonces, ofrecemos diferentes ritmos y actividades divertidas con un plan de estudio objetivo y único por lo cual desarrolla su capacidad de manera confiable.
+                 Dentro de la capacitación nuestro objetivo musical es capacitar en TONO ABSOLUTO, RITMO ABSOLUTO y SENSACION ABSOLUTA.
+                 Contamos con abundantes materiales originales y divertidas actividades.
+
+
+  - class: 
+    subfolderitems:
+      - classid: headingfive
+        referencia: "#collapsefive"
+        numero_pregunta: 5
+        pregunta:  ¿Como hacen rítmica de Arcobaleno?
+      
+      - ref: collapsefive
+        classid1: headingfive
+        parrafo: Con varios estímulos. (detalle pagina…LINK)
+                 Tengo actividades practicas creadas para que puedan desarrollar por su propio voluntad con diversión.
+                 Repitiendo las actividades y los padres complementen lo que puedan hacer.
+
+
+  - class: 
+    subfolderitems:
+      - classid: headingsix
+        referencia: "#collapsix"
+        numero_pregunta: 6
+        pregunta:   ¿Los niños en edad maternal pueden hacer rítmica?
+      
+      - ref: collapsix
+        classid1: headingsix
+        parrafo: Los niños y niñas en edad maternal pueden percibir, crear, combinar tanto ritmos como sonidos.
+                 Repitiendo las actividades y haciendo que los padres complementen lo que puedan hacer, rítmica tiene muchas actividades como la extensión del tengo para que su hijo pueda disfrutar
+
+
+
+  - class: 
+    subfolderitems:
+      - classid: headingseven
+        referencia: "#collapseven"
+        numero_pregunta: 7
+        pregunta:  ¿Que beneficios tiene la rítmica de Arcobaleno?
+      
+      - ref: collapseven
+        classid1: headingseven
+        parrafo: ・Pueden comunicarse y aprender entre niños
+                 ・Crear un sentimiento que disfrute y quiera, así puede desarrollar su propia voluntad 
+                 ・Adquieren conocimientos y habilidades
+                 ・Con las clases la concentración y atención aumentan
+                 ・Al terminar alguna actividad obtiene la sensación de logro, al ser elogiado aumenta su confianza
+                 ・Aumenta su desarrollo integral como la creatividad, socialización y la coordinación psicomotriz, la memoria lenguaje etc.
