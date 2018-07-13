@@ -1276,12 +1276,12 @@ a.mail:hover {
 }
 
 .social .gp{
-    background: #DD4B39;
+    background: #f46f30;
 }
 .social .gp:before,
 .social .gp:after
 {
-    border-color: #DD4B39;
+    border-color: #f46f30;
 }
 .social .pin{
     background: #fe4445;
@@ -1292,12 +1292,12 @@ a.mail:hover {
     border-color: #fe4445;
 }
 .social .db{
-    background: #f85993;
+    background: #25d366;
 }
 .social .db:before,
 .social .db:after
 {
-    border-color: #f85993;
+    border-color: #25d366;
 }
 .social .rss{
     background: #ff9845;
