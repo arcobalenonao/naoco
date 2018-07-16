@@ -21,6 +21,26 @@ accesorios-arcobaleno:
         titulo: Boots3
         alt:
 
+
+      - url: #
+        image_path: images/kaplan.jpg
+        titulo: Boots1
+        alt:
+
+      - url: #
+        image_path: images/kaplan1.jpg
+        titulo: Boots2
+        alt:
+
+      - url: #
+        image_path: images/kaplan4.jpg
+        titulo: Boots3
+        alt:
+      
+      - url: #
+        image_path: images/pirastro.jpg
+        titulo: Boots3
+        alt:
       
   - ul: 
     subfolderitems:
@@ -62,17 +82,22 @@ accesorios-arcobaleno:
         image_path: images/ma2.png
         titulo: Boots7
         alt:
+     
+      - url: #
+        image_path: images/acm.png
+        titulo: Boots7
+        alt:
 
   
   - ul: 
     subfolderitems:
       - url: #
-        image_path: images/ma1.png
+        image_path: images/puente1.png
         titulo: Boots7
         alt:
 
       - url: #
-        image_path: images/ma2.png
+        image_path: images/puente2.png
         titulo: Boots7
         alt:    
       
@@ -80,12 +105,12 @@ accesorios-arcobaleno:
   - ul: 
     subfolderitems:
       - url: #
-        image_path: images/ma1.png
+        image_path: images/otro1.png
         titulo: Boots7
         alt:
 
       - url: #
-        image_path: images/ma2.png
+        image_path: images/otro2.png
         titulo: Boots7
         alt:    
       
