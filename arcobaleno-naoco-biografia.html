@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<div class="about-wthree">
+		<div class="container">
+			<div class="ab-w3l-spa">
+			<div class="w3layouts_head">
+					<h3 class="tittle">Biografia </h3>
+						<div class="border"></div>
+			</div>
+            <p class="about-para-w3ls"></p>
+			<img src="images/banner-bio.jpg" class="img-responsive" alt="Hair Salon">
+					<div class="w3l-slider-img">
+						<img src="images/naoko.jpg" class="img-responsive" alt="Hair Salon">
+					</div>
+                    <div class="w3ls-info-about">
+						<h4>Naoco
+                            SUDA de KikuchiViolinista, 
+                        </h4>
+						<p>Arquitecta (Acústica, Sistema acústica, Psicología acústica, Ruido)
+							<br>Compositora, Musicología, Rítmica
+                        </p>
+					</div>
+		    </div>
+		   	<div class="clearfix"> </div>
+		</div>
+</div>
+<div class="w3-agileits-choose">
+			<div class="container">
+				
+				<div class="agile-choose-grids">
+                    {% for item in site.data.valores.valor %}
+					<div class="col-sm-4 agile-choose-grid">
+						<div class="choose-icon">
+							<i class="{{ item.icono  }}" aria-hidden="true"></i>
+						</div>
+						<div class="choose-info">
+							<h4>{{ item.titulo  }}</h4>
+							<p>{{ item.description  }}</p>
+						</div>
+					</div>
+                     {% endfor %}
+					<div class="clearfix"></div>
+				</div>	
+			</div>
+</div>

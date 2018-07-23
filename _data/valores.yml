@@ -1,14 +1,17 @@
 valor:
- - titulo: titulo1
-   description: arcobaleno, arcobaleno, arcobaleno, arcobalenoarcobaleno, arcobaleno.
-   icono: fa fa-user
+ - titulo: Violinista 
+   description: Lic. en Musicología y Compositor (Universidad Ferris, Yokohama, Japón)
+   icono: fa fa-music
 
- - titulo: titulo2
-   description: arcobaleno1
-   icono: fa fa-cogs
+ - titulo: Master  Arquitecta
+   description: Especializada en Acustica, Sistema acústica, Psicología acústica, Ruido (CIT, Chiba, Japón)
+   icono: fa fa-building
 
- - titulo: titulo3
-   description: arcobaleno3
-   icono: fa fa-thumbs-o-up
+ - titulo: Doctorado en arquitecta
+   description: especialidad en Acústica, Sistema acústica, Psicología acústica, Ruido (Universidad Tokyo,Tokyo, Japón)
+   icono: fa fa-university
 
+ - titulo: Rítmica
+   description: (RITO Pure, Japón), Lic. en rítmica para niños
+   icono: fa fa-child
  
