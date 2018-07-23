@@ -484,7 +484,7 @@ li.menu__item:nth-child(6) {
 	-moz-background-size: cover;
 }
 .w3layouts-banner-top1{
-	background: url(../images/2.png) no-repeat 0px 0px;
+	background: url(../images/2.jpg) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -721,10 +721,10 @@ li.menu__item:nth-child(6) {
 }
 /*-- //slider --*/
 .service-w3l {
-    padding: 5em 0;
+    padding: 4em 0;
 }
 .w3layouts_head {
-    margin-bottom: 5em;
+    margin-bottom: 4em;
 }
 .wel-grid {
     padding: 0;
@@ -769,7 +769,7 @@ li.menu__item:nth-child(6) {
 }
 h3.tittle {
     color: #30befc;
-    font-size: 3em;
+    font-size: 2em;
     text-align: center;
     text-transform: uppercase;
 }
@@ -1097,7 +1097,7 @@ h3.w3l-agile:before,h2.w3l-agile:before  {
 /*-- Counter --*/
 .stats {
     padding: 8em 0;
-	background: url(../images/contact.jpg) no-repeat 0px 0px;
+	background: url(../images/ninos.png) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
