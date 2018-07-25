@@ -722,9 +722,10 @@ li.menu__item:nth-child(6) {
 /*-- //slider --*/
 .service-w3l {
     padding: 4em 0;
+    background-color: #f5ebeb;
 }
 .w3layouts_head {
-    margin-bottom: 4em;
+    margin-bottom: 2em;
 }
 .wel-grid {
     padding: 0;
@@ -1101,7 +1102,7 @@ h3.w3l-agile:before,h2.w3l-agile:before  {
 }
 .stats {
     padding: 3em 0;
-	background: url(../images/ninos.png) no-repeat 0px 0px;
+	background: url(../images/este.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1139,7 +1140,7 @@ h3.w3l-agile:before,h2.w3l-agile:before  {
 /*-- //Counter --*/
 /*-- Footer --*/
 .w3l-footer {
-	background-color: #fff;
+	background-color: #fff;    
 }
 .footer-info-agile {
 	margin-top: 50px;
