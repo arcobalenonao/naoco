@@ -677,7 +677,7 @@ h3.type  {
 }  
 .grid_5{
 	background:#fff;
-	padding:8em 0 2em 58px;
+	padding:1em 0 2em 58px;
 }
 
 .table td, .table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
@@ -1006,10 +1006,10 @@ a  i.share:hover{
 }
 /*--blog--*/
 .blog {
-  background: #5bb2fc;
+  background: #fff;
 }
 .blog-section{
-     padding: 6em 0 4em 0;
+     padding: 0em 0 4em 0;
    text-align:center;
  }
  .blog-section h3 {
@@ -1064,15 +1064,15 @@ img.zoom-img {
   font-family: 'Fugaz One', cursive;
 }
 .blog-text {
-  background: #5bb2fc;
-  width: 40%;
+  background: #fff;
+  width: 50%;
   margin: 0 auto;
   text-align: center;
-  padding: 3.95em 3em;
+  padding: 4.95em 3em;
 }
 .welcome-img {
-  width: 60%;
-  margin: 0;
+  width: 31%;
+  margin: 96px;
   padding: 0;
 }
 .welcome-img img {
@@ -1081,15 +1081,15 @@ img.zoom-img {
 .blog-text p {
   font-size: 0.9em;
   line-height: 1.8em;
-  color: #fff;
+  color: #777;
   font-weight: 400;
 }
 .blog-text.two {
   float: right;
 }
 .blog-img.two {
-  width: 60%;
-  margin: 0;
+  width: 31%;
+  margin: 87px;
   padding: 0;
   float:left;
  }
@@ -1645,31 +1645,7 @@ p.reply i:hover{
 	  width: 69%;
 }
 /*--footer--*/
-.footer {
-   background: #29292A;
-    padding: 2em 0 1em;
-  text-align:left;
-}
-.footer-grids h3{
- color: #fec63f;
-  font-size: 1.4em;
-  font-weight: 400;
-  text-decoration: none;
-  line-height: 1.4em;
-  font-family: 'Fugaz One', cursive;
-  margin:0.6em 0;
-}
-.footer-grids p {
-  font-size: 0.9em;
-  color: #fff;
-  line-height: 1.8em;
-}
-.footer-text {
-  float: left;
-}
-.footer-info {
-  float: right;
-}
+
 a.read {
   color: #fff;
   font-size: 1em;
@@ -1749,7 +1725,7 @@ a.read:hover{
 	  margin-top:0em;
 	}
 	.top-games-section {
-	padding: 4em 0 2em 0;
+	padding: 5em 0 2em 0;
 	}
 }
 @media (max-width:1366px){
@@ -1993,14 +1969,7 @@ a.read:hover{
 	.blog-section {
 	  padding: 3em 0 3em 0;
 	}
-	.footer-text {
-	  float: left;
-	  width: 49%;
-   }
-   .footer-info {
-	  float: right;
-	  width: 50%;
-	}
+	
 	.support input[type="submit"] {
 	  font-size: 13px;
 	  padding: 0.8em;
@@ -2227,23 +2196,11 @@ a.read:hover{
 	  font-size: 2em;
 	  margin-bottom: 1em;
 	}
-	.footer-text {
-	  float: left;
-	  width: 100%;
-	}
-	.footer-info {
-	  float: right;
-	  width: 100%;
-	}
+	
 	.support input[type="text"] {
 	  width: 80%;
 	  }
-	  .footer-grids p,.sub-text p,.top-games p {
-	  font-size: 0.85em;
-	  }
-	  .single h3 {
-	  font-size: 1.3em;
-	}
+	  
 	p.eget {
 	  font-size: 0.85em;
 	}
@@ -2301,14 +2258,7 @@ a.read:hover{
 	  width: 9%;
 	  padding: 2em 0 2.7em 0;
 	}
-	.footer-text {
-	  float: left;
-	  width: 100%;
-	  padding: 0;
-	}
-	.footer-info {
-	  padding: 0;
-	}
+	
 	.trailer {
 	  padding: 0;
 	}
@@ -2541,9 +2491,7 @@ a.read:hover{
 	  font-size: 0.83em;
 	  margin: 0.5em 0;
 	}
-	.footer-grids p,.sub-text p,.top-games p {
-	  font-size: 0.83em;
-	 }
+	
 	p.eget {
 	  font-size: 0.83em;
 	}
@@ -2659,28 +2607,13 @@ a.read:hover{
 	.blog-section {
 	  padding: 1em 0 2em 0;
 	}
-	.footer {
-	  background: #29292A;
-	  padding: 1em 0 0em;
-	 }
-	 .footer-grids h3 {
-	  margin: 0.2em 0;
-	}
-	.footer-text {
-	  float: left;
-	  width: 100%;
-	  padding: 0;
-	}
+	
 	a.read {
 	  font-size: 0.9em;
 	  padding: 0.6em 1em;
 	  margin: 1em 0;
 	  }
-	  .footer-info {
-	  float: right;
-	  width: 100%;
-	  padding: 0;
-	}
+	  
 	.logo a h1 {
 	   font-size: 1.7em;
 	}
