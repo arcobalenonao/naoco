@@ -43,7 +43,7 @@ a:hover,a:focus{
 }
 #accordion .panel-title a span:before,
 #accordion .panel-title a span:after{
-    content: "";
+    
     border-top: 20px solid #fff;
     border-left: 20px solid transparent;
     border-right: 20px solid transparent;
