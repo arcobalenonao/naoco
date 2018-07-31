@@ -909,7 +909,7 @@ h3.title-w3-agileits {
 /*--//main--*/
 /*-- /about --*/
 .about-wthree {
-    padding: 5em 0 22.6em 0px;
+    padding: 5em 0 20.5em 0px;
     background:#faf6ee;
 }
 .ab-w3l-spa {
@@ -2168,9 +2168,9 @@ li.list-group-item1 {
 .grid_5 h3, .grid_5 h2, .grid_5 h1, .grid_5 h4, .grid_5 h5, h3.hdg, h3.bars {
     margin-bottom: 1em;
     color: #f36371;
-    font-weight: 600;
-    font-size: 30px;
-    letter-spacing: 2px;
+    font-weight: 599;
+    font-size: 21px;
+    letter-spacing: 0px;
 }
 .table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
 	border-top: none !important;
@@ -2234,7 +2234,7 @@ section#tables  p {
 	text-shadow: none;
 }
 .alert {
-	font-size: 0.85em;
+	font-size: 1.10em;
 }
 h1.t-button,h2.t-button,h3.t-button,h4.t-button,h5.t-button {
 	line-height:2em;
