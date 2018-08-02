@@ -3,71 +3,71 @@ accesorios-arcobaleno:
     subfolderitems:
       - url: #
         image_path: images/eva-piraci.png
-        titulo: Boots
+        titulo: 
         alt:
 
       - url: #
         image_path: images/infeld-rojo.png
-        titulo: Boots1
+        titulo: 
         alt:
 
       - url: #
         image_path: images/vision-solo-vit02.png
-        titulo: Boots2
+        titulo: 
         alt:
 
       - url: #
         image_path: images/dominant.png
-        titulo: Boots3
+        titulo: 
         alt:
 
 
       - url: #
         image_path: images/kaplan.jpg
-        titulo: Boots1
+        titulo: 
         alt:
 
       - url: #
         image_path: images/kaplan1.jpg
-        titulo: Boots2
+        titulo: 
         alt:
 
       - url: #
         image_path: images/kaplan4.jpg
-        titulo: Boots3
+        titulo: 
         alt:
       
       - url: #
         image_path: images/pirastro.jpg
-        titulo: Boots3
+        titulo: 
         alt:
       
   - ul: 
     subfolderitems:
       - url: #
         image_path: images/pez1.jpg
-        titulo: Boots4
+        titulo: 
         alt:
 
       - url: #
         image_path: images/pez2.jpg
-        titulo: Boots5
+        titulo: 
         alt:
   - ul: 
     subfolderitems:
       - url: #
         image_path: images/ar.png
-        titulo: Boots7
+        titulo: 
         alt:
 
       - url: #
         image_path: images/ar1.png
-        titulo: Boots7
+        titulo: 
         alt:
 
       - url: #
         image_path: images/ar2.png
-        titulo: Boots7
+        titulo: 
         alt:
 
       
@@ -75,17 +75,17 @@ accesorios-arcobaleno:
     subfolderitems:
       - url: #
         image_path: images/ma1.png
-        titulo: Boots7
+        titulo: 
         alt:
 
       - url: #
         image_path: images/ma2.png
-        titulo: Boots7
+        titulo: 
         alt:
      
       - url: #
         image_path: images/acm.png
-        titulo: Boots7
+        titulo: 
         alt:
 
   
@@ -93,12 +93,12 @@ accesorios-arcobaleno:
     subfolderitems:
       - url: #
         image_path: images/puente1.png
-        titulo: Boots7
+        titulo: 
         alt:
 
       - url: #
         image_path: images/puente2.png
-        titulo: Boots7
+        titulo: 
         alt:    
       
 
@@ -106,12 +106,12 @@ accesorios-arcobaleno:
     subfolderitems:
       - url: #
         image_path: images/otro1.png
-        titulo: Boots7
+        titulo: 
         alt:
 
       - url: #
         image_path: images/otro2.png
-        titulo: Boots7
+        titulo: 
         alt:    
       
 

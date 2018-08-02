@@ -1,0 +1,43 @@
+<link rel="stylesheet" type="text/css" href="css/demo.css" />
+<link rel="stylesheet" type="text/css" href="css/tabs.css" />
+<link rel="stylesheet" type="text/css" href="css/tabstyles.css" />
+
+
+
+<section>
+				<div class="tabs tabs-style-flip">
+					<nav>
+						<ul>
+							<li>
+								<a href="#section-flip-5" class="icon"><img src="images/lo.png" alt="Breaking Borders Logo" height="40" width="40"><span>Musica</span>
+								</a>
+							</li>
+							<li>
+								<a href="#section-flip-4" class="icon"><img src="images/reg.png" alt="Breaking Borders Logo" height="40" width="40"><span>Sencibilidad</span></a>
+							</li>
+							<li>
+								<a href="#section-flip-2" class="icon"><img src="images/cono.png" alt="Breaking Borders Logo" height="40" width="40"><span>Conocimiento</span></a>
+							</li>
+							
+						</ul>
+					</nav>
+					<div class="content-wrap">
+						<section id="section-flip-1"><p>Musica</p></section>
+						<section id="section-flip-2"><p>Sencibilidad</p></section>
+						<section id="section-flip-3"><p>conocimiento</p></section>
+						
+					</div><!-- /content -->
+				</div><!-- /tabs -->
+			</section>
+
+<script src="js/cbpFWTabs.js"></script>
+		<script>
+			(function() {
+
+				[].slice.call( document.querySelectorAll( '.tabs' ) ).forEach( function( el ) {
+					new CBPFWTabs( el );
+				});
+
+			})();
+		</script>
+<script src="js/modernizr-2.6.2.min.js"></script>
