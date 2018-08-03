@@ -778,7 +778,7 @@ li.menu__item:nth-child(6) {
 }
 h3.tittle {
     color: #30befc;
-    font-size: 2em;
+    font-size: 1.5em;
     text-align: center;
     text-transform: uppercase;
 }
@@ -1106,7 +1106,7 @@ h3.w3l-agile:before,h2.w3l-agile:before  {
     background: url(../images/coloredborder1.png) repeat-x;
 }
 .stats {
-    padding: 3em 0;
+    padding: 1em 0;
 	background: url(../images/este.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
@@ -1527,7 +1527,7 @@ figure.effect-apollo:hover p {
 /*-- //gallery --*/
 /*-- contact --*/
 .contact{
-	padding:5em 0;
+	padding:0em 0;
     background: #f9f9fb;
 }
 .contact h4 {
@@ -3524,7 +3524,7 @@ figure.effect-apollo p {
 		border-right: none;
 	}
 	.w3l-slider-img {
-    top: 23.5em;
+    top: 3.5em;
     width: 70%;
     left: 3.4em;
 }
@@ -3900,10 +3900,10 @@ h3.tittle, h2.tittle {
 /*--price chart desde aqui*/
 /*-- pricing --*/
 .pricing{
-    padding: 1em 0 2em;
+    padding: 0em 0 2em;
 }
 .w3l-pricing-grids {
-    max-width: 550px;
+    max-width: 474px;
     margin: 0 auto;
     display: -webkit-box;
     display: -moz-box;
@@ -3931,7 +3931,7 @@ h3.heading span{
     width: 20%;               /* For old syntax, otherwise collapses. */
     -webkit-flex: 1;          /* Chrome */
     -ms-flex: 1;              /* IE 10 */
-    margin:0 5px;
+    margin:0 13px;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;

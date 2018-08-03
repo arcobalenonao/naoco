@@ -91,7 +91,7 @@ nav a:focus {
    background:#ffa659;
 }
 .top-menu ul li a.color3{
-   background: #B881CF;
+   background: #ff7a85;
 }
 .top-menu ul li a.color4{
  background: #fec63f;
@@ -1529,7 +1529,7 @@ p.reply i:hover{
 }
 /*--contact-us--*/
 .contact {
-  padding-top:4em;
+  padding-top:6em;
 }
 .contact h3{
   padding: 0.5em;
@@ -1634,7 +1634,7 @@ p.reply i:hover{
 	height:400px;
 }
 .contact-bottom {
-     padding: 4em 0;
+     padding: 3em 0;
 }
 .contact-top-left {
 	  float: left;
@@ -2457,26 +2457,26 @@ a.read:hover{
 	  padding: 2em 0 1em 0px;
 	}
 	.blog-section {
-	  padding: 2em 0 3em 0;
+	  padding: 1em 0 3em 0;
 	}
 	.blog-text {
 	  width: 100%;
-	  padding: 1em 1em;
+	  padding: 0em 0em;
 	  float: left;
-	  margin-top: 7px;
+	  margin-top: -100px;
 	}
 	.blog-img.two {
-	  width: 100%;
+	  width: 77%;
 	}
 	.welcome-img {
-	  width: 100%;
+	  width: 74%;
 		float: left;
 	  }
 	  .blog a h4 {
 	    font-size: 1.2em;
 		}
 		.blog-text p {
-		  font-size: 0.83em;
+		  font-size: 0.80em;
 		  overflow: hidden;
 		  height: 100px;
 		}
