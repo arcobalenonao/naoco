@@ -7,6 +7,3 @@ plugins:
   - jekyll-maps
 
 
-maps:
-  google:
-    api_key: <AIzaSyDUZl_g-CydB7I7ULFb_ruadWfKbHm1J4g&signed_in>

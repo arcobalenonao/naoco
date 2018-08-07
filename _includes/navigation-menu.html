@@ -17,20 +17,22 @@
 					<nav class="menu menu--iris">
 						<ul class="nav navbar-nav menu__list">
 							
-							<li class="menu__item menu__item--current"><a href="index.html" class="menu__link">Inicio</a>
+							<li {% if page.url contains 'index.html' %} class="menu__item menu__item--current"{% endif %}>
+								<a href="index.html" class="menu__link">Inicio</a>
 							</li>
 
-							<li class="dropdown menu__item">
+							<li {% if page.url contains 'nosotros.html' %}
+							class="dropdown menu__item menu__item--current"{% endif %} >
 								<a href="#" class="dropdown-toggle menu__link" data-toggle="dropdown">Caracteristicas<b class="caret"></b>
 								</a>
 								<ul class="dropdown-menu agile_short_dropdown">
-									<li ><a href="nosotros.html">Nosotros</a></li>
+									<li><a href="nosotros.html">Nosotros</a></li>
 									<li><a href="arcobaleno-naoco-biografia.html">Biografia</a></li>
 									<li><a href="preguntas-frecuentes.html">Preguntas Frecuentes</a></li>
 								</ul>
 							</li>
 
-							<li class="dropdown menu__item">
+							<li {% if page.url contains 'arcobaleno-naoco-accesorios.html' %}class="dropdown menu__item menu__item--current"{% endif %}>
 								<a href="#" class="dropdown-toggle menu__link" data-toggle="dropdown">Ventas<b class="caret"></b></a>
 								<ul class="dropdown-menu agile_short_dropdown">
 									<li><a href="arcobaleno-naoco-accesorios.html">Accesorios</a></li>
@@ -38,16 +40,19 @@
 								</ul>
 							</li>
 
-							<li class="dropdown menu__item">
+							<li  {% if page.url contains 'iconos.html' %}class="dropdown menu__item menu__item--current"{% endif %}>
 								<a href="#" class="dropdown-toggle menu__link" data-toggle="dropdown">Cursos <b class="caret"></b></a>
 								<ul class="dropdown-menu agile_short_dropdown">
+									
 									<li><a href="iconos.html">Cursos de Violin</a></li>
 									<li><a href="cursos-ritmica-niños.html">Ritmica Para Niños</a></li>
 									
 								</ul>
 							</li>
 
-							<li class="menu__item"><a href="eventos-arcobaleno.html" class="menu__link">Eventos</a></li>
+							<li {% if page.url contains 'eventos-arcobaleno.html' %}class="menu__item menu__item--current"{% endif %}>
+								<a href="eventos-arcobaleno.html" class="menu__link">Eventos</a>
+							</li>
 
 						</ul>
 					</nav>
