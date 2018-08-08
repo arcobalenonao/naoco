@@ -424,14 +424,14 @@ li.menu__item:nth-child(6) {
 }
 .agileits-banner-info h4 {
     font-size: 4em;
-    color: #f36371;
+    color:#f80000 !important;
     letter-spacing: 27px;
     font-weight: bold;
     text-transform: uppercase;
     font-family: 'Oswald', sans-serif;
 }
 .agileits-banner-info h3 {
-    color: #f8b500;
+    color: #f29111 !important;
     font-size: 1.5em;
     margin: 10px 0 0;
     letter-spacing: 10px;
@@ -448,7 +448,7 @@ li.menu__item:nth-child(6) {
     margin-top: 8em;
 }
 .agileits-banner-info p {
-    color: #1884ba;
+    color: #00758f !important;
     font-size: 1.2em;
     line-height: 1.8em;
     letter-spacing: 11px;
@@ -500,7 +500,7 @@ li.menu__item:nth-child(6) {
 	-moz-background-size: cover;
 }
 .w3layouts-banner-top2{
-	background: url(../images/1.png) no-repeat 0px 0px;
+	background: url(../images/1.jpg) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -730,7 +730,7 @@ li.menu__item:nth-child(6) {
 /*-- //slider --*/
 .service-w3l {
     padding: 4em 0;
-    background-color: #f5ebeb;
+    background-color: #00758f !important;
 }
 .w3layouts_head {
     margin-bottom: 5em;
@@ -771,7 +771,7 @@ li.menu__item:nth-child(6) {
 }
 .border {
     width: 110px;
-    background: url(../images/linea.png);
+    background: url(../images/line.png);
     display: block;
     height: 3px;
     margin: 0.5em auto 0;
@@ -944,7 +944,7 @@ h3.title-w3-agileits {
    
 }
 p.about-para-w3ls {
-    color: #777;
+    color: #FFF;
     font-size: 16px;
     line-height: 33px;
     letter-spacing: 0.5px;
