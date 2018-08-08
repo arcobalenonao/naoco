@@ -6,4 +6,7 @@ baseurl: /naoco
 plugins:
   - jekyll-maps
 
-
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-123644663-1          # Required - replace with your tracking id
+    anonymizeIp: false
